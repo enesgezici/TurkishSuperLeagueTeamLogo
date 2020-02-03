@@ -1,4 +1,4 @@
-# TurkishSuperLeagueTeamLogo_2020
+# TurkishSuperLeagueTeamLogo__Season2020
 
 2019 - 2020 Turkish Super League Sports Club Logo
 
