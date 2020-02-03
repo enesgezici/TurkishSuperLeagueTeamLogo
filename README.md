@@ -1,6 +1,6 @@
 # TurkishSuperLeagueTeamLogo_2020
 
-2019 - 2020 Turkish Super Lig Sports Club Logo
+2019 - 2020 Turkish Super League Sports Club Logo
 
 Türkiye'deki futbol kulüpleri listesi 2019-20 sezonunda Türkiye Futbol Federasyonu'na bağlı profesyonel liglerde mücadele edecek takımların listesidir.
 
