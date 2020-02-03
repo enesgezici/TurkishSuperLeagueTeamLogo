@@ -6,7 +6,7 @@ Türkiye'deki futbol kulüpleri listesi 2019-20 sezonunda Türkiye Futbol Federa
 
 Logo dizininde takımların güncel logoları bulunmaktadır. 
 
-- Takımlar Listesi (A-Z)
+Takımlar Listesi (A-Z)
 
 		1- Alanyaspor
 		
