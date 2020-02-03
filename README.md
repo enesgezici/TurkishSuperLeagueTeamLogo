@@ -2,7 +2,11 @@
 
 2019 - 2020 Turkish Super League Sports Club Logo
 
-Türkiye'deki futbol kulüpleri listesi 2019-20 sezonunda Türkiye Futbol Federasyonu'na bağlı profesyonel liglerde mücadele edecek takımların listesidir.
+Türkiye'deki futbol kulüpleri listesi 2019-20 sezonunda Türkiye Futbol Federasyonu'na bağlı profesyonel liglerde mücadele edecek takımların listesidir. 
+
+Logo dizininde takımların güncel logoları bulunmaktadır. 
+
+- Takımlar Listesi (A-Z)- 
 
 1- Alanyaspor
 
